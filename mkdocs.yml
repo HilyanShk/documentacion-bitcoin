@@ -1,0 +1,19 @@
+site_name: Guía básica sobre Bitcoin
+site_description: Aprende lo esencial sobre Bitcoin y la tecnología blockchain
+site_author: Tu Nombre
+
+theme:
+  name: 'material'
+
+nav:
+  - Inicio: index.md
+  - Introducción:
+      - ¿Qué es Bitcoin?: seccion1/tema1.md
+      - Blockchain y funcionamiento: seccion1/tema2.md
+  - Curiosidades: seccion2.md
+
+site_author: "Hilya"
+
+
+
+
